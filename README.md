@@ -7,9 +7,9 @@ This has 3 end-points
 
 Applciation uses h2 database and has initial load script to load test data.
 
-Setup git on your machine
-Clone the project
-Import project as a Maven project in eclipse/STS
-Run the spring boot server
+1. Setup git on your machine
+2. Clone the project
+3. Import project as a Maven project in eclipse/STS
+4. Run the spring boot server
 
 All set to use the APIs
